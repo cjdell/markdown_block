@@ -1,0 +1,8 @@
+.markdown_block_container label {
+	display: block;
+}
+
+.markdown-field textarea {
+  font-family: "Courier New", Courier, monospace;
+  height: 200px !important;
+}
