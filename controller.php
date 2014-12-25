@@ -11,7 +11,7 @@ defined('C5_EXECUTE') or die(_("Access Denied."));
 class controller extends Package {
 	protected $pkgHandle = 'markdown_block';
 	protected $appVersionRequired = '5.7.0.4';
-	protected $pkgVersion = '0.0.1';
+	protected $pkgVersion = '1.0.0';
 
 	public function getPackageName() {
 		return t('Markdown Block');
